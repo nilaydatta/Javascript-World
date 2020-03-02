@@ -1,0 +1,9 @@
+Design patterns: -
+
+3 main types-
+
+1) Structural pattern
+2) Creational pattern 
+	  - Factory pattern
+
+3) Behavioural pattern
