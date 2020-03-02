@@ -3,8 +3,11 @@ Design patterns: -
 3 main types-
 
 1) Structural pattern
+    - Iterator pattern
+    
 2) Creational pattern 
 	  - Factory pattern
     - Singleton pattern
 
 3) Behavioural pattern
+    - Strategy pattern
